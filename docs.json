@@ -76,10 +76,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/IntrvuzIcon&Logo.png",
   "navbar": {
     "links": [],
     "primary": {
