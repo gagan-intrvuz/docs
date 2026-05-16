@@ -92,6 +92,7 @@
     }
   },
   "banner": {
-    "content": "test"
+    "content": "test",
+    "dismissible": true
   }
 }
